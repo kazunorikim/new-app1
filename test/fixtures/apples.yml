@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pine: MyString
+  grape: MyString
+
+two:
+  pine: MyString
+  grape: MyString

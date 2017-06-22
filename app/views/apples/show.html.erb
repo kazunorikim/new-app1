@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Pine:</strong>
+  <%= @apple.pine %>
+</p>
+
+<p>
+  <strong>Grape:</strong>
+  <%= @apple.grape %>
+</p>
+
+<%= link_to 'Edit', edit_apple_path(@apple) %> |
+<%= link_to 'Back', apples_path %>
